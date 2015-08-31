@@ -1,7 +1,9 @@
 ---
+author: Daniel Wysocki
+date: 2015-09-07T10:00:00-05:00
 ---
 
-# primes part 1
+# Primes (part 1)
 
 This program prints all the prime numbers between 1 and 100.
 
@@ -19,7 +21,7 @@ Download the pre-built archive
 [here](primes-part-1.jar),
 and save it to `/some/directory/`. Once that has been done, you may run the program from any standard UNIX shell with:
 
-```bash
+```
 $ java -jar /some/directory/primes-part-1.jar
 ```
 
@@ -29,13 +31,13 @@ $ java -jar /some/directory/primes-part-1.jar
 
 To build from source, first download the source code [here](primes-part-1.tar.gz), and save it in `/some/directory/`. Then extract the source code using
 
-```bash
+```
 $ tar xvzf primes-part-1.tar.gz
 ```
 
 Now you must install [leiningen](http://leiningen.org/). Once that is done, you may build the package with:
 
-```bash
+```
 $ cd /some/directory/primes-part-1/
 $ lein uberjar
 ```
