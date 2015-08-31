@@ -16,7 +16,7 @@ To run the pre-built archive, all you will need to install is Java.
 ## Usage
 
 Download the pre-built archive
-[here](target/uberjar/primes-part-1.jar),
+[here](primes-part-1.jar),
 and save it to `/some/directory/`. Once that has been done, you may run the program from any standard UNIX shell with:
 
 ```bash
