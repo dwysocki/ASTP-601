@@ -18,7 +18,7 @@ To run the pre-built archive, all you will need to install is Java.
 ## Usage
 
 Download the pre-built archive
-[here](primes-part-1.jar),
+[here]({{site.baseurl}}/assets/assignments/primes-part-1/primes-part-1.jar),
 and save it to `/some/directory/`. Once that has been done, you may run the program from any standard UNIX shell with:
 
 ```
@@ -29,7 +29,7 @@ $ java -jar /some/directory/primes-part-1.jar
 
 ## Building from source
 
-To build from source, first download the source code [here](primes-part-1.tar.gz), and save it in `/some/directory/`. Then extract the source code using
+To build from source, first download the source code [here]({{site.baseurl}}/assets/assignments/primes-part-1/primes-part-1.tar.gz), and save it in `/some/directory/`. Then extract the source code using
 
 ```
 $ tar xvzf primes-part-1.tar.gz
