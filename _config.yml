@@ -1,0 +1,23 @@
+title: "Graduate Research Seminar I"
+author: "Daniel Wysocki"
+description: "My personal webpage for the Fall 2015 section of Graduate Research Seminar (ASTP-601) at RIT."
+url: "http://dwysocki.github.io/ASTP-601"
+baseurl: "/ASTP-601"
+
+style:
+#    body: "whitesmoke"
+    padding: 33%
+    anchor: "#46f"
+    serif-heading: true
+    nav: "#181818"
+#    headline: "#06f"
+    description: "white"
+    article:
+        odd: "#ffffff"
+        even: "#222222"
+
+links:
+  - github: "https://github.com/dwysocki/"
+
+excerpt_separator: "\n\n\n"
+defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
