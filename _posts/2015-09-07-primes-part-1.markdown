@@ -2,6 +2,7 @@
 title: Primes (part 1)
 author: Daniel Wysocki
 date: 2015-09-07T10:00:00-05:00
+category: assignment
 ---
 
 # Assignment Description
