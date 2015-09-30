@@ -42,4 +42,8 @@ Figure 2 shows that rate of period change and stellar parameters (mass, temperat
 
 Rate of period change and stellar parameters do not uniquely describe the evolutionary track.
 
-Predicted rates of change versus observed rates are not in agreement. Suggests evolution of B-cepheids is more complex than expected. May also be the case that period-mean density relation is not constant throughout the star for all times, which was assumed by the model.
+Predicted rates of change versus observed rates are only in agreement with the 2 stars with strong magnetic fields, despite neglecting those effects in the model. Possible explanations include:
+
+1. Evolution of B-cepheids is more complex than expected.
+2. Period-mean density relation is not constant throughout the star for all times, which was assumed by the model.
+3. Short-term period drift (separate from evolution) could be throwing off measurements. Such an effect is thought to exist in Polaris (classical Cepheid).
