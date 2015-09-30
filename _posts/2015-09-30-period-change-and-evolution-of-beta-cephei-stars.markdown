@@ -35,11 +35,11 @@ Table 2 (page 4) shows stellar parameters obtained.
 
 Figure 1 (page 3) shows stellar evolution tracks for different stars with different assumptions made on the unknown parameters. Left plot assumes constant [core overshoot](https://en.wikipedia.org/wiki/Convective_overshoot) varies initial rotation rates, while right plot assumes zero rotation and varies core overshoot.
 
-**Figure out what Figure 2 means**
+Figure 2 shows that rate of period change and stellar parameters (mass, temperature, etc) cannot be used to determine rotation rates and core overshoot, as there is degeneracy (note the horizontal lines).
 
 
 ## Results
 
-Predicted rates of change versus observed rates are not in agreement.
+Rate of period change and stellar parameters do not uniquely describe the evolutionary track.
 
-Suggests evolution of B-cepheids is more complex than expected. May also be the case that period-mean density relation is not constant throughout the star for all times, which was assumed by the model.
+Predicted rates of change versus observed rates are not in agreement. Suggests evolution of B-cepheids is more complex than expected. May also be the case that period-mean density relation is not constant throughout the star for all times, which was assumed by the model.
