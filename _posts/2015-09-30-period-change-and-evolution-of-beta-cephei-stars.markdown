@@ -35,6 +35,8 @@ Table 2 (page 4) shows stellar parameters obtained.
 
 Figure 1 (page 3) shows stellar evolution tracks for different stars with different assumptions made on the unknown parameters. Left plot assumes constant [core overshoot](https://en.wikipedia.org/wiki/Convective_overshoot) varies initial rotation rates, while right plot assumes zero rotation and varies core overshoot.
 
+**Figure out what Figure 2 means**
+
 
 ## Results
 
