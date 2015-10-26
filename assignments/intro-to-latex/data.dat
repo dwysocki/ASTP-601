@@ -1,0 +1,9 @@
+#name        m (kg)     r (m)    P (d)        L (J s)
+"951-Gaspra" 2.5e16     6.1e3    2.93e-1      NA
+"Ceres"      9.393e20   4.73e5   3.7809e-1    NA
+"Earth"      5.97237e24 6.3781e6 9.9726968e-1 NA
+"Jupiter"    1.8986e27  7.1492e7 4.1007e-1    NA
+"Sun"        1.98855e30 6.9634e8 2.5379995e1  NA
+"Betelgeuse" 2.7e+31    7.5e11   4.32e8       NA
+"47-Tuc"     1.39e+36   5.7e+17  NA           NA
+"Milky-Way"  2.3e+42    NA       NA           1e67
