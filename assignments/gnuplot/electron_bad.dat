@@ -1,0 +1,10 @@
+# motion of an electron in a region which
+#    may or may not have a significant electric field
+# time(microsec)   position(cm)    pos_uncert(cm)
+   0.0                 0               0.5
+   1.0               12.3              0.5
+   2.0               21.1              0.6
+   3.0               31.9              0.5
+   3.5               27.8              1.2
+   4.0               40.6              0.7
+   5.0               48.7              0.9
