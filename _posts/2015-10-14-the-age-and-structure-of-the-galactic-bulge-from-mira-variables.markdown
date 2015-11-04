@@ -1,6 +1,7 @@
 ---
 title: The Age and Structure of the Galactic Bulge from Mira Variables
 date: 2015-10-14T16:00:00-04:00
+category: journal club
 ---
 
 # Paper
