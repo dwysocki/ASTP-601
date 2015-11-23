@@ -4,10 +4,14 @@ _site/
 
 # LaTeX
 *.aux
-*.log
-*.toc
-*eps-converted-to.pdfd
 *.dvi
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*eps-converted-to.pdf
+
 
 # Emacs
 *~
