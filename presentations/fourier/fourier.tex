@@ -97,10 +97,10 @@ level 3/.style = {basic, thin, align=left, fill=white}
           {RR Lyraes};
 
     \node [below of = RR Lyraes]
-          (Pulsars)
-          {Pulsars};
+          (Miras)
+          {Miras};
 
-    \node [below of = Pulsars]
+    \node [below of = Miras]
           (The Sun)
           {The Sun};
 
@@ -114,7 +114,7 @@ level 3/.style = {basic, thin, align=left, fill=white}
           {Planetary Transits};
   \end{scope}
 
-  \foreach \value in {Cepheids,RR Lyraes,Pulsars,The Sun}
+  \foreach \value in {Cepheids,RR Lyraes,Miras,The Sun}
     \draw[->] (Intrinsic.195) |- (\value.west);
 
   \foreach \value in {Eclipsing Binaries,Planetary Transits}
