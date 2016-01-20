@@ -1,8 +1,8 @@
-title: "Graduate Research Seminar I"
+title: "Graduate Research Seminar I/II"
 author: "Daniel Wysocki"
-description: "My personal webpage for the Fall 2015 section of Graduate Research Seminar (ASTP-601) at RIT."
-url: "http://dwysocki.github.io/ASTP-601"
-baseurl: "/ASTP-601"
+description: "My personal webpage for the 2015-2016 sections of Graduate Research Seminar (ASTP-601/602) at RIT."
+url: "http://dwysocki.github.io/ASTP-601-602"
+baseurl: "/ASTP-601-602"
 
 style:
 #    body: "whitesmoke"
