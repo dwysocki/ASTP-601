@@ -1,7 +1,7 @@
 ---
 title: "Faculty Investigation: Manuela Campanelli"
 author: Daniel Wysocki
-date: 2016-02-08T10:00:00-05:00
+date: 2016-02-07T10:00:00-05:00
 category: assignment
 ---
 
