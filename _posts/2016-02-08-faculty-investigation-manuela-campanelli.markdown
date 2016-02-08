@@ -40,5 +40,3 @@ Dr. Campanelli is also an ethical vegetarian, and has three dogs.
 
 - Dennis Bowen
 - Brennan Ireland
-
-
