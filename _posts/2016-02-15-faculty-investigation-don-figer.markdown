@@ -1,7 +1,7 @@
 ---
 title: "Faculty Investigation: Don Figer"
 author: Daniel Wysocki
-date: 2016-02-14T10:00:00-05:00
+date: 2016-02-15T10:00:00-05:00
 category: assignment
 ---
 
