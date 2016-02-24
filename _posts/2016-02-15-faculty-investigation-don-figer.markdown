@@ -29,18 +29,18 @@ None currently
 
 # Recent Grants
 
-Total recorded funding: $16,972,207
+Total recorded funding: \$16,972,207
 
 **A Photon Counting Imaging Detector for NASA Exoplanet Missions**
 
 - Sponsor: NASA/APRA
-- Amount: $133,000
+- Amount: \$133,000
 - Years: 2015-2018
 
 **Phase II: New Infrared Detectors for Astrophysics**
 
 - Sponsor: NSF/ATI
-- Amount: $1,983,212
+- Amount: \$1,983,212
 - Years: 2015-2018
 
 

@@ -5,15 +5,6 @@ date: 2016-02-23T16:00:00-05:00
 category: journal club
 ---
 
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
-});
-</script>
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 # Paper
 
 "From Spin Noise to Systematics: Stochastic Processes in the First International Pulsar Timing Array Data Release" by L. Lentati et. al.

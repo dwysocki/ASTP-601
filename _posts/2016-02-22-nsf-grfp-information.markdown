@@ -12,8 +12,8 @@ The NSF Graduate Research Fellowship Program (GRFP) is a fellowship awarded to f
 
 # Funding
 
-- $34,000/year - stipend to the Fellow
-- $12,000/year - cost-of-education allowance to institution
+- \$34,000/year - stipend to the Fellow
+- \$12,000/year - cost-of-education allowance to institution
 
 The best part:
 
