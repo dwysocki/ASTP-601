@@ -1,7 +1,7 @@
 ---
 title: "From Spin Noise to Systematics: Stochastic Processes in the First International Pulsar Timing Array Data Release"
 author: Daniel Wysocki
-date: 2016-02-24T16:00:00-05:00
+date: 2016-02-23T16:00:00-05:00
 category: journal club
 ---
 
