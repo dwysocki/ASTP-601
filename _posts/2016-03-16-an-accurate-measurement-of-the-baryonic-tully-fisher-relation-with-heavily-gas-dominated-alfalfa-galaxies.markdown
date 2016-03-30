@@ -1,7 +1,7 @@
 ---
 title: "An accurate measurement of the baryonic Tully-Fisher relation with heavily gas-dominated ALFALFA galaxies"
 author: Daniel Wysocki
-date: 2016-03-16T12:00:00-05:00
+date: 2016-03-16T16:00:00-05:00
 category: journal club
 ---
 
