@@ -16,7 +16,7 @@ category: journal club
 
 Two type II-P supernovae were identified in the data obtained by the Kepler spacecraft: KSN 2011a (z = 0.051) and KSN 2011d (z = 0.087). See Figure 1 on page 2 for the light curves of these two supernovae, which show their shapes are consistent with other confirmed type II-P supernovae.
 
-These are the first type II-P supernovae observed during the time of the shock breakout: the initial burst of light able to escape the dense ball of plasma. See Figure 4 on page 5 for the light curve of KSN 2011d at the time the shock breakout is expected. There is a 5-sigma deviation from the breakout-free fit at this time, strongly suggesting the breakout is real.
+These are the first type II-P supernovae observed during the time of the shock breakout: the initial burst of light able to escape the dense ball of plasma. See Figure 4 on page 5 for the light curve of KSN 2011d at the time the shock breakout is expected. There is a 5-σ deviation from the breakout-free fit at this time, strongly suggesting the breakout is real.
 
 In KSN 2011a, however, no such breakout is observed. The authors attribute this to circumstellar interaction, where the radiation was diffused in the optically thick wind. See Figure 2 on page 3. This figure gives more credibility to their claim of circumstellar interaction. They believe that the shock imparted kinetic energy to the wind, which we observe as additional flux, seen as the deviation from the green model curve.
 
