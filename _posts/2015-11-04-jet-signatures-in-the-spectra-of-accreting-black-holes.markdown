@@ -1,7 +1,7 @@
 ---
 title: Jet Signatures in the Spectra of Accreting Black Holes
 date: 2015-11-04T16:00:00-05:00
-category: journal club
+category: journal_club
 ---
 
 # Paper

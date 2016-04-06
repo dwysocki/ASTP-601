@@ -2,7 +2,7 @@
 title: Long-term optical flux and colour variability in quasars
 author: Daniel Wysocki
 date: 2015-08-26T16:00:00-05:00
-category: journal club
+category: journal_club
 ---
 
 # Paper

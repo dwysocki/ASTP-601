@@ -2,7 +2,7 @@
 title: A Machine Learning Technique to Identify Transit Shaped Signals
 author: Daniel Wysocki
 date: 2015-09-02T16:00:00-05:00
-category: journal club
+category: journal_club
 ---
 
 # Paper

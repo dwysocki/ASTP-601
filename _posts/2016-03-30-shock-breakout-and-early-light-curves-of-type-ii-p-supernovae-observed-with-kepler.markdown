@@ -2,7 +2,7 @@
 title: "Shock Breakout and Early Light Curves of Type II-P Supernovae Observed with Kepler"
 author: Daniel Wysocki
 date: 2016-03-30T12:00:00-05:00
-category: journal club
+category: journal_club
 ---
 
 # Paper

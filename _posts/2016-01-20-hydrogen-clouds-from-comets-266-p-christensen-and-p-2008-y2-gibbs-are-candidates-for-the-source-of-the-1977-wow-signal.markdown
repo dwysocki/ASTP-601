@@ -2,7 +2,7 @@
 title: Hydrogen Clouds from Comets 266/P Christensen and P/2008 Y2 (Gibbs) are Candidates for the Source of the 1977 'WOW' Signal
 author: Daniel Wysocki
 date: 2016-01-20T16:00:00-05:00
-category: journal club
+category: journal_club
 ---
 
 # Paper

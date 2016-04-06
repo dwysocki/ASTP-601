@@ -2,7 +2,7 @@
 title: Period change and stellar evolution of beta Cephei stars
 author: Daniel Wysocki
 date: 2015-09-30T16:00:00-05:00
-category: journal club
+category: journal_club
 ---
 
 # Paper
