@@ -1,7 +1,7 @@
 ---
 title: "The different baryonic Tully-Fisher relations at low masses"
 author: Daniel Wysocki
-date: 2016-04-06T12:00:00-05:00
+date: 2016-04-06T16:00:00-05:00
 category: journal_club
 ---
 
