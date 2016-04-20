@@ -22,4 +22,4 @@ This study extends this to a large number of LQGs identified by SDSS with z = 1.
 
 To measure the offset in position angle, the position angle from the LQG and an individual quasar are parallel transported to each other, to make the measurements coordinate-independent.
 
-The study ultimately finds that the type of alignment varies with the LQG's "richness", m. They find m<10 showing no correlation, 10<m<20 being preferentially parallel, and m>20 being preferentially perpendicular.
+(Figure 3 on page 3) The study ultimately finds that the type of alignment varies with the LQG's "richness", m. They find m<10 showing no correlation, 10<m<20 being preferentially parallel, and m>20 being preferentially perpendicular.
